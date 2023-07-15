@@ -19,8 +19,7 @@ def mbti_dis(lst):
             for i in range(4):
                 if x[i] != y[i]:
                     cnt += 1
-        if cnt < dis:
-            dis = cnt
+        dis = min(dis, cnt)
     return dis
 
 T  = int(input())
