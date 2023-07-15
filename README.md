@@ -3,8 +3,8 @@
 |[![Minjae Kim](https://avatars.githubusercontent.com/u/33440010)](https://github.com/minjae9610)|![Choi Jun Ho](https://avatars.githubusercontent.com/u/39554558)|![gabalja](https://avatars.githubusercontent.com/u/80046476)|![Ho Je](https://avatars.githubusercontent.com/u/83208807)|![cJinu](https://avatars.githubusercontent.com/u/104177326)|
 |:-:|:-:|:-:|:-:|:-:|
 |[Minjae Kim](https://github.com/minjae9610)|[Choi Jun Ho](https://github.com/junhochoi-dev)|[gabalja](https://github.com/gabalja)|[Ho Je](https://github.com/zini9188)|[cJinu](https://github.com/cJinu)|
-|![chjcode](https://avatars.githubusercontent.com/u/107929019)|![SeokJuGo](https://avatars.githubusercontent.com/u/116260619)|![WhalesBob](https://avatars.githubusercontent.com/u/96509257)|[![Cha Cha](https://avatars.githubusercontent.com/u/90785316)](https://github.com/ChaCha3088)|
-|[chjcode](https://github.com/chjcode)|[SeokJuGo](https://github.com/SeokJuGo)|[WhalesBob](https://github.com/WhalesBob)|[Cha Cha](https://github.com/ChaCha3088)|
+|![chjcode](https://avatars.githubusercontent.com/u/107929019)|![SeokJuGo](https://avatars.githubusercontent.com/u/116260619)|![WhalesBob](https://avatars.githubusercontent.com/u/96509257)|[![Cha Cha](https://avatars.githubusercontent.com/u/90785316)](https://github.com/ChaCha3088)|[![Yg-Hong](https://avatars.githubusercontent.com/u/89956603?v=4)](https://github.com/Yg-Hong)
+|[chjcode](https://github.com/chjcode)|[SeokJuGo](https://github.com/SeokJuGo)|[WhalesBob](https://github.com/WhalesBob)|[Cha Cha](https://github.com/ChaCha3088)|[Yg-Hong](https://github.com/Yg-Hong)
 
 ## Git Commit Message
 |*Type*|*Subject*|
