@@ -1727,3 +1727,6 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,java,python,go,swift,macos,windows,linux,visualstudio,visualstudiocode,eclipse,intellij,intellij+all,intellij+iml,pycharm,pycharm+all,pycharm+iml,clion,clion+all,clion+iml,goland,goland+all,goland+iml,xcode,swiftpackagemanager,vcpkg,venv,maven,cmake
+*.sln
+*.vcxproj
+*.filters
