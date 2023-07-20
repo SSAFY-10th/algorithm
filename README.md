@@ -25,7 +25,7 @@ ex) [Type] #이슈번호 커밋메세지 `git commit -m '[python] #12 백준 123
 
 
 ## File Tree
-/ **github ID** / **Problem ID** / **solve file, problem info file**
+/ **캠퍼스_반_이름(영어로)** / **Problem ID** / **solve file, problem info file**
 
 
 ## Branching model
