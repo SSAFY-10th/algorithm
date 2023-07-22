@@ -1,10 +1,10 @@
 ## :people_hugging: Team
 
-|[![Minjae Kim](https://avatars.githubusercontent.com/u/33440010)](https://github.com/minjae9610)|![Choi Jun Ho](https://avatars.githubusercontent.com/u/39554558)|![gabalja](https://avatars.githubusercontent.com/u/80046476)|![Ho Je](https://avatars.githubusercontent.com/u/83208807)|![cJinu](https://avatars.githubusercontent.com/u/104177326)|
+|[![Minjae Kim](https://avatars.githubusercontent.com/u/33440010)](https://github.com/minjae9610)|![Choi Jun Ho](https://avatars.githubusercontent.com/u/39554558)|![gabalja](https://avatars.githubusercontent.com/u/80046476)|![Ho Je](https://avatars.githubusercontent.com/u/83208807)|![WhalesBob](https://avatars.githubusercontent.com/u/96509257)|
 |:-:|:-:|:-:|:-:|:-:|
-|[Minjae Kim](https://github.com/minjae9610)|[Choi Jun Ho](https://github.com/junhochoi-dev)|[gabalja](https://github.com/gabalja)|[Ho Je](https://github.com/zini9188)|[cJinu](https://github.com/cJinu)|
-|![chjcode](https://avatars.githubusercontent.com/u/107929019)|![SeokJuGo](https://avatars.githubusercontent.com/u/116260619)|![WhalesBob](https://avatars.githubusercontent.com/u/96509257)|[![Cha Cha](https://avatars.githubusercontent.com/u/90785316)](https://github.com/ChaCha3088)|[![Yg-Hong](https://avatars.githubusercontent.com/u/89956603)](https://github.com/Yg-Hong)
-|[chjcode](https://github.com/chjcode)|[SeokJuGo](https://github.com/SeokJuGo)|[WhalesBob](https://github.com/WhalesBob)|[Cha Cha](https://github.com/ChaCha3088)|[Yg-Hong](https://github.com/Yg-Hong)
+|[Minjae Kim](https://github.com/minjae9610)|[Choi Jun Ho](https://github.com/junhochoi-dev)|[gabalja](https://github.com/gabalja)|[Ho Je](https://github.com/zini9188)|[WhalesBob](https://github.com/WhalesBob)|
+|[![Cha Cha](https://avatars.githubusercontent.com/u/90785316)](https://github.com/ChaCha3088)|[![3o14](https://avatars.githubusercontent.com/u/101818687)](https://github.com/3o14)|[![Yg-Hong](https://avatars.githubusercontent.com/u/89956603)](https://github.com/Yg-Hong)
+|[Cha Cha](https://github.com/ChaCha3088)|[3o14](https://github.com/3o14)|[Yg-Hong](https://github.com/Yg-Hong)
 
 ## Git Commit Message
 |*Type*|*Subject*|
@@ -25,7 +25,7 @@ ex) [Type] #이슈번호 커밋메세지 `git commit -m '[python] #12 백준 123
 
 
 ## File Tree
-/ **github ID** / **Problem ID** / **solve file, problem info file**
+/ **캠퍼스_반_이름(영어로)** / **Problem ID** / **solve file, problem info file**
 
 
 ## Branching model
