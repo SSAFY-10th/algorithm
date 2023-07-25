@@ -1,4 +1,4 @@
-## :people_hugging: Team
+## Team
 
 | [![Minjae Kim](https://avatars.githubusercontent.com/u/33440010)](https://github.com/minjae9610) |           ![Choi Jun Ho](https://avatars.githubusercontent.com/u/39554558)            |                ![gabalja](https://avatars.githubusercontent.com/u/80046476)                |  ![Ho Je](https://avatars.githubusercontent.com/u/83208807)  | ![WhalesBob](https://avatars.githubusercontent.com/u/96509257) |
 | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------: |
