@@ -1,5 +1,7 @@
 # [BoJ 2602 돌다리 건너기](https://www.acmicpc.net/problem/2602)
 
+solved.ac Gold IV
+
 ## 카테고리
 
 다이나믹 프로그래밍
