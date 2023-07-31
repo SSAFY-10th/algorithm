@@ -5,8 +5,10 @@
 |                           [Minjae Kim](https://github.com/minjae9610)                            |                    [Choi Jun Ho](https://github.com/junhochoi-dev)                    |                           [gabalja](https://github.com/gabalja)                            |             [Ho Je](https://github.com/zini9188)             |           [WhalesBob](https://github.com/WhalesBob)                                                 |
 |  [![Cha Cha](https://avatars.githubusercontent.com/u/90785316)](https://github.com/ChaCha3088)   | [![3o14](https://avatars.githubusercontent.com/u/101818687)](https://github.com/3o14) | [![Yg-Hong](https://avatars.githubusercontent.com/u/89956603)](https://github.com/Yg-Hong) | ![KIM SEI](https://avatars.githubusercontent.com/u/74192619) |  [![Sumin Kim](https://avatars.githubusercontent.com/u/87856793)](https://github.com/Sumin-Kim-dev) |
 |                             [Cha Cha](https://github.com/ChaCha3088)                             |                            [3o14](https://github.com/3o14)                            |                           [Yg-Hong](https://github.com/Yg-Hong)                            |           [KIM SEI](https://github.com/KIMSEI1124)           |       [Sumin Kim](https://github.com/Sumin-Kim-dev)                                                 |
-|    [![BELLDAY](https://avatars.githubusercontent.com/u/92672351)](https://github.com/bellday)    |
-|                             [BELLDAY](https://github.com/bellday)                                |
+|    [![BELLDAY](https://avatars.githubusercontent.com/u/92672351)](https://github.com/bellday)    | [![CrimsonTheLegoBuilder](https://avatars.githubusercontent.com/u/131677526?v=4)](https://github.com/CrimsonTheLegoBuilder) |
+|                             [BELLDAY](https://github.com/bellday)                                | [Crimson](https://github.com/CrimsonTheLegoBuilder)
+
+
 
 ## Git Commit Message
 
