@@ -1,5 +1,6 @@
 ## Team
 
+
 | [![Minjae Kim](https://avatars.githubusercontent.com/u/33440010)](https://github.com/minjae9610) |                    ![Choi Jun Ho](https://avatars.githubusercontent.com/u/39554558)                     |                ![gabalja](https://avatars.githubusercontent.com/u/80046476)                |  ![Ho Je](https://avatars.githubusercontent.com/u/83208807)  | ![WhalesBob](https://avatars.githubusercontent.com/u/96509257) |
 |:------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:| :----------------------------------------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------------: |
 |                           [Minjae Kim](https://github.com/minjae9610)                            |                             [Choi Jun Ho](https://github.com/junhochoi-dev)                             |                           [gabalja](https://github.com/gabalja)                            |             [Ho Je](https://github.com/zini9188)             |           [WhalesBob](https://github.com/WhalesBob)            |
@@ -7,7 +8,6 @@
 |                             [Cha Cha](https://github.com/ChaCha3088)                             |                                     [3o14](https://github.com/3o14)                                     |                           [Yg-Hong](https://github.com/Yg-Hong)                            |           [KIM SEI](https://github.com/KIMSEI1124)           |       [Sumin Kim](https://github.com/Sumin-Kim-dev)                                                         |
 |    [![BELLDAY](https://avatars.githubusercontent.com/u/92672351)](https://github.com/bellday)    |       [![kgh2120](https://avatars.githubusercontent.com/u/76154390)](https://github.com/kgh2120)        |
 |                             [BELLDAY](https://github.com/bellday)                                |                                                 [kgh2120](https://github.com/kgh2120)                   |
-
 
 
 ## Git Commit Message
