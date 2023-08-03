@@ -113,7 +113,9 @@ public static int[] girl(int data) {
 int cnt = 1;
 // 출력
 for(int i=0; i<arr.length; i++) {
-    if(i == 20*cnt) {
+    if(i > 0 && i % 20 == 0) {
+        System.out.println();
+    }
         System.out.println();
         cnt++;
     }
