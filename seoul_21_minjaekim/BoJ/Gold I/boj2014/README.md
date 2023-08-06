@@ -38,7 +38,7 @@ int ugly_numbers[100001] = { 1 };
 ```cpp
 for (int i = 1; i < n + 1; ++i)
 {
-    long long min_number = numeric_limits<long long>::max();
+    int min_number = numeric_limits<int>::max();
     int min_index[100];
     int min_count = 0;
     for (int j = 0; j < k; ++j)
