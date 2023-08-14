@@ -1,4 +1,4 @@
-# 2194 유닛 이동시키기
+# 2194 유닛 이동시키기 8:20
 '''
 최소 이동 횟수 -> bfs 고려
 
@@ -21,8 +21,8 @@ def Unit_check(x,y):
     unit이 장애물을 만나면 False
     그 외 : True
     '''
-    for i in range(x,a):
-        for j in range(y,b):
+    for i in range(x,x+a):
+        for j in range(y,y+b):
             if i < 0 or i > (n-1) or j < 0 or j > (m-1):    # graph 밖으로 나가면
                 return False
             if graph[i][j] == -1:   # 장애물을 만나면
@@ -40,12 +40,14 @@ def Bfs():
     while deq:
         x,y = deq.popleft()
         if [x,y] == end:    # 도착점에 도착하면 최소 회수 출력
-            return graph[x][y]
+            print(graph[x][y])
+            return
         for i in range(4):
             nx = x + dx[i]
             ny = y + dy[i]
-            #### unit의 한 원소라도 graph 밖으로 나가는지 판단 할 수 있게 수정
             if nx < 0 or nx > (n-1) or ny < 0 or ny > (m-1):
+                continue
+            if graph[nx][ny] != 0:
                 continue
             if Unit_check(nx,ny):
                 graph[nx][ny] = graph[x][y] + 1
