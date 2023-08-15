@@ -23,18 +23,18 @@ vector<Edge> graph[1000];
 int dist[1001][1001];
 
 void dijkstra(int s, int e) {
-	queue<Node> pq;
-	pq.push(Node(s, 0, 0));
+	queue<Node> que;
+	que.push(Node(s, 0, 0));
 	dist[s][0] = 0;
-	while (!pq.empty()) {
-		Node node = pq.front();
-		pq.pop();
+	while (!que.empty()) {
+		Node node = que.front();
+		que.pop();
 		if (node.dist > dist[node.id][node.edge_count]) continue;
 		for (Edge edge : graph[node.id]) {
 			int next_dist = node.dist + edge.cost;
 			if (next_dist < dist[edge.to][node.edge_count + 1]) {
 				dist[edge.to][node.edge_count + 1] = next_dist;
-				pq.push({ edge.to, next_dist, node.edge_count + 1 });
+				que.push({ edge.to, next_dist, node.edge_count + 1 });
 			}
 		}
 	}
